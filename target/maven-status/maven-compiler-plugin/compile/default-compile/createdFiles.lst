@@ -1,0 +1,17 @@
+com/shop/mall/config/MyFilter.class
+com/shop/mall/base/BaseCriteria.class
+com/shop/mall/util/Paging.class
+com/shop/mall/domain/Address.class
+com/shop/mall/config/WebConfig.class
+com/shop/mall/config/RootConfig.class
+com/shop/mall/domain/Category.class
+com/shop/mall/util/PagingCriteria.class
+com/shop/mall/domain/Order.class
+com/shop/mall/dao/UserDao.class
+com/shop/mall/base/BaseMyBatisDao.class
+com/shop/mall/domain/Item.class
+com/shop/mall/util/PageInfo.class
+com/shop/mall/config/SpitterWebInitializer.class
+com/shop/mall/util/JsonMapper.class
+com/shop/mall/domain/User.class
+com/shop/mall/domain/OrderItem.class

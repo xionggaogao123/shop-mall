@@ -1,0 +1,17 @@
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/base/BaseCriteria.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/config/RootConfig.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/base/BaseMyBatisDao.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/config/SpitterWebInitializer.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/domain/Item.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/util/PagingCriteria.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/util/PageInfo.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/domain/User.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/domain/Order.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/config/WebConfig.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/util/JsonMapper.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/dao/UserDao.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/domain/Category.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/util/Paging.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/domain/OrderItem.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/config/MyFilter.java
+/Users/keven/IdeaProjects/xionggao/shop-mall/src/main/java/com/shop/mall/domain/Address.java
